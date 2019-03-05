@@ -56,17 +56,27 @@ Hotkeys
 "N" Autofire On/Off
 
 NOTE:
+
 "apex recoil voice" if you press a button for example f4 you hear a voice saying "r301"
+
 "apex recoil tooltip" if you press a button for example f4 you get a tooltip box that says "r301"
+
 http://prntscr.com/mt0yvi
 
 Ingame Mouse Settings
+
 Mouse Sensitivity 3.3
+
 ADS Mouse Sensitivity Multiplier 1.0
+
 If you want to change this just edit this
+
 http://prntscr.com/mt14wk
 
 My Discord is Kliment#1172
+
 Contact me if you need Help!
+
 &
+
 Contact me if you can Help me improve this Script!
