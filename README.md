@@ -1,7 +1,6 @@
 # secret-ahk-script
 
 Whats New?
-
 I have added a GUI to the "voice" & "tooltip" version 
 
 
