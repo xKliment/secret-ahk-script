@@ -32,16 +32,27 @@ https://youtu.be/pRfbgXojnKI
 Hotkeys
 
 "F1" Wingman
+
 "F2" Hemlock
+
 "F3" Scout
+
 "F4" R301
+
 "F5" R99
+
 "F6" Spitfire
+
 "F7" Flatline
+
 "F8"	R45
+
 "F9" Alternator
+
 "F10" P2020
+
 "5" Disable
+
 "N" Autofire On/Off
 
 NOTE:
