@@ -29,6 +29,7 @@ Check if "the script that you selected"(for example apex recoil voice) & "Ahkhid
 Video of Step 3,4 & 5
 https://youtu.be/pRfbgXojnKI
 
+
 Hotkeys
 
 "F1" Wingman
@@ -55,11 +56,13 @@ Hotkeys
 
 "N" Autofire On/Off
 
+
 NOTE:
 
 "apex recoil voice" if you press a button for example f4 you hear a voice saying "r301"
 
 "apex recoil tooltip" if you press a button for example f4 you get a tooltip box that says "r301"
+
 
 http://prntscr.com/mt0yvi
 
@@ -73,10 +76,9 @@ If you want to change this just edit this
 
 http://prntscr.com/mt14wk
 
+
+
 My Discord is Kliment#1172
-
 Contact me if you need Help!
-
 &
-
 Contact me if you can Help me improve this Script!
