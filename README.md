@@ -4,7 +4,9 @@ Whats New?
 
 -I have added a GUI to the "voice" & "tooltip" version 
 
+
 UPDATE:
+
 -Added Peacekepper Glitch "F11"
 
 -Now script pauses when inventory is open and on desktop.
