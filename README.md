@@ -8,10 +8,15 @@ Whats New?
 UPDATE:
 
 ; -- Now script stops when you open inventory
+
 ; -- The Script wont work if you are on the desktop
+
 ; -- Peacekeeper glitch reworked
+
 ; -- Fixed Problem where script closed itself
+
 ; -- Script should now pause if you have the grenade equppied
+
 ; -- Script should now close instantly if you press "9"
 
 
