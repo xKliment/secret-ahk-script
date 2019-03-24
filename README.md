@@ -7,9 +7,12 @@ Whats New?
 
 UPDATE:
 
--Added Peacekepper Glitch "F11"
-
--Now script pauses when inventory is open and on desktop.
+; -- Now script stops when you open inventory
+; -- The Script wont work if you are on the desktop
+; -- Peacekeeper glitch reworked
+; -- Fixed Problem where script closed itself
+; -- Script should now pause if you have the grenade equppied
+; -- Script should now close instantly if you press "9"
 
 
 Checkout the Thread where this Github belongs to:
@@ -19,5 +22,3 @@ https://www.unknowncheats.me/forum/apex-legends/324305-updated-apex-legends-nore
 
 My Discord is Kliment#1172
 Contact me if you need Help!
-&
-Contact me if you can Help me improve this Script!
