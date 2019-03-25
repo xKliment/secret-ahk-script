@@ -24,6 +24,9 @@ Checkout the Thread where this Github belongs to:
 https://www.unknowncheats.me/forum/apex-legends/324305-updated-apex-legends-norecoil-script-bypass.html
 
 
+You need to have the hyde.dll and hyde64.dll in the Folder or the AHK Hider wont work!
+
+
 
 My Discord is Kliment#1172
 Contact me if you need Help!
